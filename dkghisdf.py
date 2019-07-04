@@ -1,0 +1,2 @@
+sk=input()
+print(sk+".")
