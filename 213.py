@@ -1,0 +1,2 @@
+ssss=input()
+print(ssss+".")
