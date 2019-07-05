@@ -1,0 +1,11 @@
+g=int(input())
+sk=g
+ds=0
+while(g>0):
+  d=g%10
+  ds=ds*10+d
+  g=g//10
+if(sk==ds):
+  print("yes")
+else:
+  print("no")
